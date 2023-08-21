@@ -9,7 +9,7 @@ namespace AirTable
 {
     public class AirTableClient
     {
-        // baseID for "instagram-database"
+        // baseID for target base
         private const string baseID = "";
 
         // accessToken for my account
